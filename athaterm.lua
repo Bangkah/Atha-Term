@@ -42,9 +42,9 @@ end)
 config.color_scheme = 'Custom'
 config.colors = {
   -- Base colors
-  foreground = '#00ff00',  -- Neon green text
-  background = '#0a0a0a',  -- Very dark background
-  cursor_bg = '#00ff00',   -- Neon green cursor
+  foreground = '#f8f8f2',
+  background = '#282a36',
+  cursor_bg = '#ff79c6',
   cursor_fg = '#0a0a0a',   -- Dark cursor text
   cursor_border = '#00ff00',
 

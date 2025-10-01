@@ -347,18 +347,18 @@ Edit file `~/.wezterm.lua` pada bagian `config.colors`:
 #### Tema Matrix (Hijau Neon) - Default
 ```lua
 config.colors = {
-  foreground = '#00ff00',
-  background = '#0a0a0a',
-  cursor_bg = '#00ff00',
+  foreground = 'rgba(0, 255, 0, 1)',
+  background = 'rgba(10, 10, 10, 1)',
+  cursor_bg = 'rgba(0, 255, 0, 1)',
 }
 ```
 
 #### Tema Cyberpunk (Cyan Neon)
 ```lua
 config.colors = {
-  foreground = '#00ffff',  -- Cyan neon
-  background = '#0a0a0a',
-  cursor_bg = '#00ffff',
+  foreground = 'rgba(0, 255, 255, 1)',  -- Cyan neon
+  background = 'rgba(10, 10, 10, 1)',
+  cursor_bg = 'rgba(0, 255, 255, 1)',
 }
 ```
 
