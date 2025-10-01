@@ -138,7 +138,7 @@ fc-list | grep "Fira Code"
 
 ```bash
 # Clone repository ini
-git clone https://github.com/Bangkah/Atha-Term.git
+git clone https://github.com/Bangkah/AthaTerm.git
 cd athaterm
 
 # Atau jika download sebagai ZIP
