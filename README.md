@@ -1,4 +1,4 @@
-# 🖥️ AthaTerm - Konfigurasi WezTerm Custom
+# AthaTerm - Konfigurasi WezTerm Custom
 
 > Terminal emulator modern dengan tema dark dan aksen hijau neon yang elegan
 
