@@ -839,9 +839,9 @@ WezTerm sendiri juga menggunakan MIT License. Lihat: https://github.com/wez/wezt
 
 Jika ada pertanyaan atau masalah:
 
-1. **Buka Issue**: https://github.com/yourusername/athaterm/issues
-2. **Discussion**: https://github.com/yourusername/athaterm/discussions
-3. **Email**: your.email@example.com
+1. **Buka Issue**: https://github.com/Bangkah/athaterm/issues
+2. **Discussion**: https://github.com/Bangkah/athaterm/discussions
+3. **Email**: mdhyaulatha@gmail.com
 
 ---
 
