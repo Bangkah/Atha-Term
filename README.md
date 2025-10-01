@@ -870,8 +870,8 @@ Jika ada pertanyaan atau masalah:
 
 ---
 
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/athaterm?style=social)](https://github.com/yourusername/athaterm)
-[![GitHub Forks](https://img.shields.io/github/forks/yourusername/athaterm?style=social)](https://github.com/yourusername/athaterm)
-[![GitHub Issues](https://img.shields.io/github/issues/yourusername/athaterm)](https://github.com/yourusername/athaterm/issues)
+[![GitHub Stars](https://img.shields.io/github/stars/Bangkah/athaterm?style=social)](https://github.com/Bangkah/athaterm)
+[![GitHub Forks](https://img.shields.io/github/forks/Bangkah/athaterm?style=social)](https://github.com/Bangkah/athaterm)
+[![GitHub Issues](https://img.shields.io/github/issues/Bangkah/athaterm)](https://github.com/Bangkah/athaterm/issues)
 
 </div>
