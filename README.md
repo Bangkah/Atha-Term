@@ -138,7 +138,7 @@ fc-list | grep "Fira Code"
 
 ```bash
 # Clone repository ini
-git clone https://github.com/yourusername/athaterm.git
+git clone https://github.com/Bangkah/Atha-Term.git
 cd athaterm
 
 # Atau jika download sebagai ZIP
@@ -576,7 +576,7 @@ athaterm/
 ├── athaterm.lua          # File konfigurasi utama
 ├── README.md             # Dokumentasi lengkap (file ini)
 ├── .gitignore            # Git ignore file
-└── screenshots/          # (Optional) Screenshot tampilan
+└── screenshots/          # Screenshot tampilan
     ├── main.png
     ├── split-screen.png
     └── tabs.png
